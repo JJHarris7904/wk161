@@ -9,7 +9,7 @@ Create a memory game with React
 
 ## Live App:
 
-[Check out the live app here](https://m-wolowicz.github.io/React-Clicky-Game/index.html)
+[Check out the live app here](https://JJHarris7904/wk161/index.html)
 
 ### Overview
 
@@ -32,7 +32,7 @@ For this assignment, I created a memory game with React. This assignment require
 
 #### Copyright
 
-Ephraim Floreal (C) 2018. All Rights Reserved.
+James Harris (C) 2018. All Rights Reserved.
 
 # ClickyGame
 # wk16
